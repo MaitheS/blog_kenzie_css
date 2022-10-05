@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    background-color: black;
+}
+
+.titulo {
+    border-bottom: 1px solid blue;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    list-style: none;
+    border: 1px solid gray;
+    padding: 6px;
+}
+
+.linkRoxo:hover {
+    background-color: purple;
+}
+
+.linkAzul:hover {
+    background-color: aqua;
+}
+
+.linkRosa:hover {
+    background-color: pink;
+}
+
+.borda {
+    border: 1px solid blue;
+    margin: 30px 5px;
+    padding: 4px;
+}
+
+.email {
+    color: blueviolet;
+}
+
+.botãoVermelho:hover {
+    background-color: blueviolet;
+}
